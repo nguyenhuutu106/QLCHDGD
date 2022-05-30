@@ -1,0 +1,86 @@
+D:\BaiTapC#\BTL_QLCuaHangGiaDung\BTL_QLCuaHangGiaDung\bin\Debug\BTL_QLCuaHangGiaDung.exe.config
+D:\BaiTapC#\BTL_QLCuaHangGiaDung\BTL_QLCuaHangGiaDung\bin\Debug\BTL_QLCuaHangGiaDung.exe
+D:\BaiTapC#\BTL_QLCuaHangGiaDung\BTL_QLCuaHangGiaDung\bin\Debug\BTL_QLCuaHangGiaDung.pdb
+D:\BaiTapC#\BTL_QLCuaHangGiaDung\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.csprojAssemblyReference.cache
+D:\BaiTapC#\BTL_QLCuaHangGiaDung\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.Form1.resources
+D:\BaiTapC#\BTL_QLCuaHangGiaDung\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.Properties.Resources.resources
+D:\BaiTapC#\BTL_QLCuaHangGiaDung\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.csproj.GenerateResource.cache
+D:\BaiTapC#\BTL_QLCuaHangGiaDung\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.csproj.CoreCompileInputs.cache
+D:\BaiTapC#\BTL_QLCuaHangGiaDung\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.exe
+D:\BaiTapC#\BTL_QLCuaHangGiaDung\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.pdb
+D:\BaiTapC#\BTL_QLCuaHangGiaDung\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.Form2.resources
+C:\Users\nhnam\Downloads\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\bin\Debug\BTL_QLCuaHangGiaDung.exe.config
+C:\Users\nhnam\Downloads\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\bin\Debug\BTL_QLCuaHangGiaDung.exe
+C:\Users\nhnam\Downloads\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\bin\Debug\BTL_QLCuaHangGiaDung.pdb
+C:\Users\nhnam\Downloads\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.csproj.AssemblyReference.cache
+C:\Users\nhnam\Downloads\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.Form1.resources
+C:\Users\nhnam\Downloads\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.Form2.resources
+C:\Users\nhnam\Downloads\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.Properties.Resources.resources
+C:\Users\nhnam\Downloads\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.csproj.GenerateResource.cache
+C:\Users\nhnam\Downloads\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.csproj.CoreCompileInputs.cache
+C:\Users\nhnam\Downloads\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.exe
+C:\Users\nhnam\Downloads\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.pdb
+C:\Users\Admin\Desktop\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\bin\Debug\BTL_QLCuaHangGiaDung.exe.config
+C:\Users\Admin\Desktop\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.exe
+C:\Users\Admin\Desktop\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.pdb
+C:\Users\Admin\Desktop\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\bin\Debug\BTL_QLCuaHangGiaDung.exe
+C:\Users\Admin\Desktop\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\bin\Debug\BTL_QLCuaHangGiaDung.pdb
+C:\Users\Admin\Desktop\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\bin\Debug\mscorlib.dll
+C:\Users\Admin\Desktop\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\bin\Debug\normidna.nlp
+C:\Users\Admin\Desktop\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\bin\Debug\normnfc.nlp
+C:\Users\Admin\Desktop\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\bin\Debug\normnfd.nlp
+C:\Users\Admin\Desktop\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\bin\Debug\normnfkc.nlp
+C:\Users\Admin\Desktop\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\bin\Debug\normnfkd.nlp
+C:\Users\Admin\Desktop\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.Form1.resources
+C:\Users\Admin\Desktop\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.Form2.resources
+C:\Users\Admin\Desktop\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.Properties.Resources.resources
+C:\Users\Admin\Desktop\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.csproj.GenerateResource.Cache
+C:\Users\nhnam\Downloads\Bài tập lớn nhóm 12\Bài tập lớn nhóm 12\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\bin\Debug\BTL_QLCuaHangGiaDung.exe.config
+C:\Users\nhnam\Downloads\Bài tập lớn nhóm 12\Bài tập lớn nhóm 12\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\bin\Debug\BTL_QLCuaHangGiaDung.exe
+C:\Users\nhnam\Downloads\Bài tập lớn nhóm 12\Bài tập lớn nhóm 12\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\bin\Debug\BTL_QLCuaHangGiaDung.pdb
+C:\Users\nhnam\Downloads\Bài tập lớn nhóm 12\Bài tập lớn nhóm 12\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.csproj.AssemblyReference.cache
+C:\Users\nhnam\Downloads\Bài tập lớn nhóm 12\Bài tập lớn nhóm 12\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.Form1.resources
+C:\Users\nhnam\Downloads\Bài tập lớn nhóm 12\Bài tập lớn nhóm 12\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.Form2.resources
+C:\Users\nhnam\Downloads\Bài tập lớn nhóm 12\Bài tập lớn nhóm 12\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.Properties.Resources.resources
+C:\Users\nhnam\Downloads\Bài tập lớn nhóm 12\Bài tập lớn nhóm 12\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.csproj.GenerateResource.cache
+C:\Users\nhnam\Downloads\Bài tập lớn nhóm 12\Bài tập lớn nhóm 12\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.csproj.CoreCompileInputs.cache
+C:\Users\nhnam\Downloads\Bài tập lớn nhóm 12\Bài tập lớn nhóm 12\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.exe
+C:\Users\nhnam\Downloads\Bài tập lớn nhóm 12\Bài tập lớn nhóm 12\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung12\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.pdb
+C:\Users\nhnam\Downloads\Bài tập lớn nhóm 15\Bài tập lớn nhóm 15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.csproj.AssemblyReference.cache
+C:\Users\nhnam\Downloads\Bài tập lớn nhóm 15\Bài tập lớn nhóm 15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.Form1.resources
+C:\Users\nhnam\Downloads\Bài tập lớn nhóm 15\Bài tập lớn nhóm 15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.Form2.resources
+C:\Users\nhnam\Downloads\Bài tập lớn nhóm 15\Bài tập lớn nhóm 15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.Properties.Resources.resources
+C:\Users\nhnam\Downloads\Bài tập lớn nhóm 15\Bài tập lớn nhóm 15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.csproj.GenerateResource.cache
+C:\Users\nhnam\Downloads\Bài tập lớn nhóm 15\Bài tập lớn nhóm 15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.csproj.CoreCompileInputs.cache
+C:\Users\nhnam\Downloads\Bài tập lớn nhóm 15\Bài tập lớn nhóm 15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.exe
+C:\Users\nhnam\Downloads\Bài tập lớn nhóm 15\Bài tập lớn nhóm 15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.pdb
+C:\Users\nhnam\Downloads\Bài tập lớn nhóm 15\Bài tập lớn nhóm 15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung\bin\Debug\BTL_QLCuaHangGiaDung.exe.config
+C:\Users\nhnam\Downloads\Bài tập lớn nhóm 15\Bài tập lớn nhóm 15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung\bin\Debug\BTL_QLCuaHangGiaDung.exe
+C:\Users\nhnam\Downloads\Bài tập lớn nhóm 15\Bài tập lớn nhóm 15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung\bin\Debug\BTL_QLCuaHangGiaDung.pdb
+C:\Users\TU\Downloads\download\Bài tập lớn nhóm 15\Bài tập lớn nhóm 15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.csproj.AssemblyReference.cache
+C:\Users\TU\Downloads\download\Bài tập lớn nhóm 15\Bài tập lớn nhóm 15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.csproj.SuggestedBindingRedirects.cache
+C:\Users\TU\Downloads\download\Bài tập lớn nhóm 15\Bài tập lớn nhóm 15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.Form1.resources
+C:\Users\TU\Downloads\download\Bài tập lớn nhóm 15\Bài tập lớn nhóm 15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.Form2.resources
+C:\Users\TU\Downloads\download\Bài tập lớn nhóm 15\Bài tập lớn nhóm 15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.Properties.Resources.resources
+C:\Users\TU\Downloads\download\Bài tập lớn nhóm 15\Bài tập lớn nhóm 15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.csproj.GenerateResource.cache
+C:\Users\TU\Downloads\download\Bài tập lớn nhóm 15\Bài tập lớn nhóm 15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.csproj.CoreCompileInputs.cache
+C:\Users\TU\Downloads\download\Bài tập lớn nhóm 15\Bài tập lớn nhóm 15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.exe
+C:\Users\TU\Downloads\download\Bài tập lớn nhóm 15\Bài tập lớn nhóm 15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.pdb
+C:\Users\TU\Downloads\download\Bài tập lớn nhóm 15\Bài tập lớn nhóm 15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung\bin\Debug\BTL_QLCuaHangGiaDung.exe.config
+C:\Users\TU\Downloads\download\Bài tập lớn nhóm 15\Bài tập lớn nhóm 15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung\bin\Debug\BTL_QLCuaHangGiaDung.exe
+C:\Users\TU\Downloads\download\Bài tập lớn nhóm 15\Bài tập lớn nhóm 15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung\bin\Debug\BTL_QLCuaHangGiaDung.pdb
+C:\Users\TU\Downloads\download\Bài tập lớn nhóm 15\Bài tập lớn nhóm 15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung15\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.Form3.resources
+C:\Users\TU\Downloads\download\Bài tập lớn nhóm 3\Bài tập lớn nhóm 3\BTL_QLCuaHangGiaDung3\BTL_QLCuaHangGiaDung3\BTL_QLCuaHangGiaDung\bin\Debug\BTL_QLCuaHangGiaDung.exe.config
+C:\Users\TU\Downloads\download\Bài tập lớn nhóm 3\Bài tập lớn nhóm 3\BTL_QLCuaHangGiaDung3\BTL_QLCuaHangGiaDung3\BTL_QLCuaHangGiaDung\bin\Debug\BTL_QLCuaHangGiaDung.exe
+C:\Users\TU\Downloads\download\Bài tập lớn nhóm 3\Bài tập lớn nhóm 3\BTL_QLCuaHangGiaDung3\BTL_QLCuaHangGiaDung3\BTL_QLCuaHangGiaDung\bin\Debug\BTL_QLCuaHangGiaDung.pdb
+C:\Users\TU\Downloads\download\Bài tập lớn nhóm 3\Bài tập lớn nhóm 3\BTL_QLCuaHangGiaDung3\BTL_QLCuaHangGiaDung3\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.csproj.AssemblyReference.cache
+C:\Users\TU\Downloads\download\Bài tập lớn nhóm 3\Bài tập lớn nhóm 3\BTL_QLCuaHangGiaDung3\BTL_QLCuaHangGiaDung3\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.csproj.SuggestedBindingRedirects.cache
+C:\Users\TU\Downloads\download\Bài tập lớn nhóm 3\Bài tập lớn nhóm 3\BTL_QLCuaHangGiaDung3\BTL_QLCuaHangGiaDung3\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.Form1.resources
+C:\Users\TU\Downloads\download\Bài tập lớn nhóm 3\Bài tập lớn nhóm 3\BTL_QLCuaHangGiaDung3\BTL_QLCuaHangGiaDung3\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.Form3.resources
+C:\Users\TU\Downloads\download\Bài tập lớn nhóm 3\Bài tập lớn nhóm 3\BTL_QLCuaHangGiaDung3\BTL_QLCuaHangGiaDung3\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.Form2.resources
+C:\Users\TU\Downloads\download\Bài tập lớn nhóm 3\Bài tập lớn nhóm 3\BTL_QLCuaHangGiaDung3\BTL_QLCuaHangGiaDung3\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.Properties.Resources.resources
+C:\Users\TU\Downloads\download\Bài tập lớn nhóm 3\Bài tập lớn nhóm 3\BTL_QLCuaHangGiaDung3\BTL_QLCuaHangGiaDung3\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.csproj.GenerateResource.cache
+C:\Users\TU\Downloads\download\Bài tập lớn nhóm 3\Bài tập lớn nhóm 3\BTL_QLCuaHangGiaDung3\BTL_QLCuaHangGiaDung3\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.csproj.CoreCompileInputs.cache
+C:\Users\TU\Downloads\download\Bài tập lớn nhóm 3\Bài tập lớn nhóm 3\BTL_QLCuaHangGiaDung3\BTL_QLCuaHangGiaDung3\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.exe
+C:\Users\TU\Downloads\download\Bài tập lớn nhóm 3\Bài tập lớn nhóm 3\BTL_QLCuaHangGiaDung3\BTL_QLCuaHangGiaDung3\BTL_QLCuaHangGiaDung\obj\Debug\BTL_QLCuaHangGiaDung.pdb
